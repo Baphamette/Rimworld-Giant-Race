@@ -10,5 +10,5 @@ Giants are about twice the size of baseline human colonists, which incurs a numb
 - Research much more slowly due to their simple minds and primitive culture.
 - Too big for beds, so can sleep outside and on the ground with no penalty. Rests more quickly to compensate.
 Half-giants are also included, of course being midway between giants and humans.
-ReGrowth - Extinct Animals Pack is required for their mammoth livestock. I'll look into substituting other mammoth mods in the future (e.g. Megafauna).
-I recommend playing without Giddy-Up! or restricting usage to an animal's master until I find out a way to keep them from using mounts.
+If Megafauna or ReGrowth - Extinct Animals Pack are also installed, giants will travel with mammoths, and the giant player scenario with by default start with 4 mammoths (if you have both mods they will start with 8 total, 4 of each).
+I recommend playing without Giddy-Up! or restricting usage to an animal's master until I find out a way to keep them from using mounts (y'know, since they weigh a ton or whatever).
